@@ -1,4 +1,4 @@
-# Play-Store-App-Analysis---Exploratory-Data-Analysis-EDA-
+# Play-Store-App-Analysis---Exploratory-Data-Analysis-EDA
 # Table of Contents
 Introduction
 Data Source
